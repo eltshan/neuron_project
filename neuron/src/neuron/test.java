@@ -1,15 +1,8 @@
 package neuron;
 
-import java.awt.Color;
-import java.awt.FlowLayout;
-import java.awt.Graphics;
-import java.awt.Image;
-import java.awt.Panel;
-import java.awt.Toolkit;
 import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.Iterator;
-import java.util.Map;
 import java.util.Set;
 
 import javax.swing.*;
@@ -20,8 +13,6 @@ import edu.uci.ics.jung.algorithms.layout.AggregateLayout;
 import edu.uci.ics.jung.algorithms.layout.FRLayout;
 import edu.uci.ics.jung.graph.Graph;
 import edu.uci.ics.jung.graph.util.Pair;
-import edu.uci.ics.jung.graph.util.TestGraphs;
-import edu.uci.ics.jung.visualization.PluggableRenderContext;
 import edu.uci.ics.jung.visualization.VisualizationViewer;
 
 public class test {

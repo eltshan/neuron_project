@@ -1,10 +1,5 @@
 package neuron;
 
-import java.util.ArrayList;
-import java.util.List;
-
-import edu.uci.ics.jung.graph.Graph;
-import edu.uci.ics.jung.graph.SparseMultigraph;
 import edu.uci.ics.jung.graph.UndirectedGraph;
 import edu.uci.ics.jung.graph.UndirectedSparseMultigraph;
 

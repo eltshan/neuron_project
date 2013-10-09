@@ -1,25 +1,13 @@
 package neuron;
 
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.Iterator;
 import java.util.Set;
-import java.awt.BorderLayout;
 import java.awt.Color;
-import java.awt.Graphics;
-import java.awt.Image;
 import java.awt.Paint;
-import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
-
-import javax.swing.JButton;
 import javax.swing.JFrame;
-import javax.swing.JLabel;
-import javax.swing.JPanel;
-
 import org.apache.commons.collections15.Transformer;
 
-import edu.uci.ics.jung.samples.SimpleGraphDraw;
 import edu.uci.ics.jung.visualization.VisualizationViewer;
 
 public class Neuron implements Runnable {
